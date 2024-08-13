@@ -1,0 +1,9 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.peekTypeDefinition",
+    "editor.scrollBeyondLastLine": false,
+    "editor.scrollPredominantAxis": false,
+    "editor.selectionClipboard": true,
+    "files.autoSave": "onWindowChange",
+    "editor.cursorStyle": "block"
+}
